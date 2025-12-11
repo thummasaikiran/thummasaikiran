@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thummasaikiran!
+# 👋 Hi, I'm Thumma SaiKiran!
 
 ### 🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast | Infrastructure as Code
 
