@@ -1,3 +1,2 @@
 ## Hi there 👋
 
-https://user-images.githubusercontent.com/83774380/210644443-1c9aaa40-5768-4102-a26e-99c1dcc1a5f0.png
