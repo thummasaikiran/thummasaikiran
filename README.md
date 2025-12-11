@@ -84,6 +84,5 @@
   ### ⚡ **DevOps Principle I Follow:**
   > *"Automate everything, monitor everything, and always be learning"*
   
-  <img src="https://komarev.com/ghpvc/?username=thummasaikiran&style=flat-square&color=blue" alt="Profile Views"/>
   
 </div>
