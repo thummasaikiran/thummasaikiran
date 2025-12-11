@@ -8,8 +8,7 @@
 
 ### **Cloud Platforms**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 
 ### **Containerization & Orchestration**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -35,6 +34,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ---
+<img align="right" alt="coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/28161925/DevOps-min.gif">
 
 ## 📊 **GitHub Stats**
 
