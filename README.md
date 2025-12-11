@@ -40,30 +40,19 @@
 
 ## 📊 **GitHub Stats**
 
-<div align="center">
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thummasaikiran&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Thummasaikiran's GitHub Stats" />
-  
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thummasaikiran&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thummasaikiran&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thummasaikiran&show_icons=true&locale=en&layout=compact" alt="thummasaikiran" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thummasaikiran&show_icons=true&locale=en" alt="thummasaikiran" /></p>
 
-## 📁 **Featured Projects**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thummasaikiran&" alt="thummasaikiran" /></p>
 
-### 🚀 **DevOps Projects**
-- **Dockerized Web Application** - Multi-container app with Nginx, Flask, and MySQL
-- **AWS Infrastructure with Terraform** - Automated VPC, EC2, RDS setup
-- **Kubernetes Cluster Setup** - Minikube/K3s cluster with sample deployments
-- **CI/CD Pipeline with Jenkins** - End-to-end automation for web app
-- **Monitoring Stack** - Prometheus + Grafana + AlertManager
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thummasaikiran&show_icons=true&locale=en&layout=compact" alt="thummasaikiran" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thummasaikiran&show_icons=true&locale=en" alt="thummasaikiran" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thummasaikiran&" alt="thummasaikiran" /></p>
+
 
 ## 📚 **Currently Learning**
 - 🔹 Advanced Kubernetes (Helm, Operators)
