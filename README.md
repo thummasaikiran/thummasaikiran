@@ -63,14 +63,6 @@
 
 ---
 
-## 🎯 **Goals for 2024**
-1. ✅ Get AWS Certified (Cloud Practitioner)
-2. 📖 Master Kubernetes Administration
-3. 🏗️ Build end-to-end CI/CD pipelines
-4. 📊 Contribute to Open Source DevOps tools
-5. 🚀 Deploy production-grade microservices
-
----
 
 ## 📫 **Connect With Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
