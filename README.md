@@ -2,7 +2,11 @@
 
 ### 🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast | Infrastructure as Code
 
----
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=thummasaikiran&label=Profile%20Views&color=blue&style=flat" alt="thummasaikiran" />
+</p>
+
+
 
 ## 🛠️ **Tech Stack**
 
