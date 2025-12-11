@@ -43,7 +43,9 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ---
-![snake gif](https://github.com/arcVaishali/arcVaishali/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/thummasaikiran/thummasaikiran/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 ## 📚 **Currently Learning**
