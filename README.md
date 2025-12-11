@@ -1,34 +1,106 @@
-![Logo](https://cdn.hashnode.com/res/hashnode/image/upload/v1679457321415/e404c522-8c6c-429a-b226-f8c98b9c3948.gif)
-<h1 align="center">Hi 👋, I'm Thumma Sai Kiran</h1>
-<h3 align="center">Aspiring DevOps Engineer</h3>
+# 👋 Hi, I'm Thummasaikiran!
 
-- 🌱 I’m currently learning **Kubernetes(K8S)**
+### 🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast | Infrastructure as Code
 
-- 📫 How to reach me **thummasaikiran609@gmail.com**
-<img align="right" alt="coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/28161925/DevOps-min.gif">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/https://www.instagram.com/saikiran3_4/?__pwa=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/saikiran3_4/?__pwa=1" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="80"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="80" height="80"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="80" height="80"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="80" height="80"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="80" height="80"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="80"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠️ **Tech Stack**
 
+### **Cloud Platforms**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-![snake gif](https://github.com/arcVaishali/arcVaishali/blob/output/github-snake-dark.svg)
+### **Containerization & Orchestration**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+### **Infrastructure as Code**
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 
+### **CI/CD Tools**
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thummasaikiran&show_icons=true&locale=en&layout=compact" alt="thummasaikiran" /></p>
+### **Programming & Scripting**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thummasaikiran&show_icons=true&locale=en" alt="thummasaikiran" /></p>
+### **Version Control & Monitoring**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thummasaikiran&" alt="thummasaikiran" /></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thummasaikiran&show_icons=true&locale=en&layout=compact" alt="thummasaikiran" /></p>
+## 📊 **GitHub Stats**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thummasaikiran&show_icons=true&locale=en" alt="thummasaikiran" /></p>
+<div align="center">
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thummasaikiran&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Thummasaikiran's GitHub Stats" />
+  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thummasaikiran&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thummasaikiran&" alt="thummasaikiran" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thummasaikiran&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
 
+---
 
+## 📁 **Featured Projects**
+
+### 🚀 **DevOps Projects**
+- **Dockerized Web Application** - Multi-container app with Nginx, Flask, and MySQL
+- **AWS Infrastructure with Terraform** - Automated VPC, EC2, RDS setup
+- **Kubernetes Cluster Setup** - Minikube/K3s cluster with sample deployments
+- **CI/CD Pipeline with Jenkins** - End-to-end automation for web app
+- **Monitoring Stack** - Prometheus + Grafana + AlertManager
+
+---
+
+## 📚 **Currently Learning**
+- 🔹 Advanced Kubernetes (Helm, Operators)
+- 🔹 Cloud Native Security
+- 🔹 Serverless Architecture
+- 🔹 GitOps with ArgoCD
+- 🔹 Python for DevOps Automation
+
+---
+
+## 🎯 **Goals for 2024**
+1. ✅ Get AWS Certified (Cloud Practitioner)
+2. 📖 Master Kubernetes Administration
+3. 🏗️ Build end-to-end CI/CD pipelines
+4. 📊 Contribute to Open Source DevOps tools
+5. 🚀 Deploy production-grade microservices
+
+---
+
+## 📫 **Connect With Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@your-handle)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/your-handle)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
+## 📈 **GitHub Contribution Graph**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thummasaikiran&theme=react-dark&hide_border=true&area=true)
+
+---
+
+<div align="center">
+  
+  ### ⚡ **DevOps Principle I Follow:**
+  > *"Automate everything, monitor everything, and always be learning"*
+  
+  <img src="https://komarev.com/ghpvc/?username=thummasaikiran&style=flat-square&color=blue" alt="Profile Views"/>
+  
+</div>
