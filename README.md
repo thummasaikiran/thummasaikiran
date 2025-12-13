@@ -49,14 +49,7 @@
 
 
 
-## 📚 **Currently Learning**
-- 🔹 Advanced Kubernetes (Helm, Operators)
-- 🔹 Cloud Native Security
-- 🔹 Serverless Architecture
-- 🔹 GitOps with ArgoCD
-- 🔹 Python for DevOps Automation
 
----
 
 
 ## 📫 **Connect With Me**
